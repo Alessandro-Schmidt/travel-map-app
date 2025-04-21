@@ -1,5 +1,7 @@
 # 🌍 Travel Map MVP
 
+I have been solo traveling for a while now. And I always wanted to create an app that could somehow track my trips and itineraries. This is how the idea about this project came along.
+
 A simple travel map app built with HTML, CSS, and JavaScript using Leaflet.js. It allows users to add cities they've visited, view them as markers on a map, and draw a path between them. The cities are saved locally, and the map can be exported as a JPEG.
 
 ---
