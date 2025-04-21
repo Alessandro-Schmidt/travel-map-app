@@ -61,7 +61,8 @@ http://localhost:8000
 
 ## 📸 Example Screenshot
 
-<img width="1440" alt="Captura de Tela 2025-04-21 às 00 45 36" src="https://github.com/user-attachments/assets/9f1c2873-ebc2-4990-8036-9b78fd2ae185" />
+<img width="1440" alt="Captura de Tela 2025-04-21 às 01 03 08" src="https://github.com/user-attachments/assets/56426357-d37a-4104-bf2b-f018ea2ff904" />
+
 
 ---
 
